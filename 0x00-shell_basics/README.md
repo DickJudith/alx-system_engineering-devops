@@ -1,1 +1,1 @@
-copy html
+move upper case files to directory
