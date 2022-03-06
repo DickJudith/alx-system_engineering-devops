@@ -1,1 +1,1 @@
-Move file betty to my first directory
+Delete file betty from my first directory
