@@ -1,1 +1,1 @@
-Print current working directory
+Displays content of current directory
