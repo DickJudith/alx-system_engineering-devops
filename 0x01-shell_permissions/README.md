@@ -1,1 +1,1 @@
-multiple permissions
+execute permission to every body
