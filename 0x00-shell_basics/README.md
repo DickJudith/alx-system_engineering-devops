@@ -1,1 +1,1 @@
-clean emacs
+creating multiple directory at once
