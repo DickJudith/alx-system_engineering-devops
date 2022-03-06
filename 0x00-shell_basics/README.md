@@ -1,1 +1,1 @@
-Displays content of current directory
+change directory
