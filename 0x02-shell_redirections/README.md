@@ -1,1 +1,1 @@
-duplicates last line
+delete .js
