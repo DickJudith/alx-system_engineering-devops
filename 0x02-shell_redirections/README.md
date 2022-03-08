@@ -1,1 +1,1 @@
-add content to a file
+print command into file
