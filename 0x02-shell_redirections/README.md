@@ -1,1 +1,1 @@
-display lines
+display word with bin
