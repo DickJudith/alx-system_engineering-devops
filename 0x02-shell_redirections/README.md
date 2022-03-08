@@ -1,1 +1,1 @@
-list 10 newest files
+print unique words
