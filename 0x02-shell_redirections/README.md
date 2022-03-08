@@ -1,1 +1,1 @@
-delete .js
+delete directory
