@@ -1,1 +1,1 @@
-print unique words
+display lines
