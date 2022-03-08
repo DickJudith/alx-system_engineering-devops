@@ -1,1 +1,1 @@
-display word with bin
+display
