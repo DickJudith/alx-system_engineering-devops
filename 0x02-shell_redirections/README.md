@@ -1,1 +1,1 @@
-print command into file
+duplicates last line
