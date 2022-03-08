@@ -1,1 +1,1 @@
-print hiden words
+print letters only
