@@ -1,1 +1,1 @@
-delete directory
+list 10 newest files
