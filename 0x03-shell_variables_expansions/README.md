@@ -1,1 +1,1 @@
-convert base 10 to 16
+odd
