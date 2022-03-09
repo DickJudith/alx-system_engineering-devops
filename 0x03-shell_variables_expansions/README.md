@@ -1,1 +1,1 @@
-all possible combination
+print number with 2 decimal place
