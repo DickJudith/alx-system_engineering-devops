@@ -1,1 +1,1 @@
-convert binary
+all possible combination
