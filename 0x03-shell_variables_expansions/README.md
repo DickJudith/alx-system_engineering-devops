@@ -1,1 +1,1 @@
-print global variables
+local variables
